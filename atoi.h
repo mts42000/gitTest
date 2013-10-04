@@ -1,0 +1,2 @@
+int atoi(char input[]);
+
